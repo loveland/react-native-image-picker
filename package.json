@@ -42,7 +42,7 @@
     "validate:typescript": "tsc --project ./ --noEmit",
     "test:jest": "jest \"/src/\"",
     "ci:publish": "yarn semantic-release",
-    "semantic-release": "semantic-release",
+    "semantic-release": "semantic-release"
   },
   "keywords": [
     "react-native",
